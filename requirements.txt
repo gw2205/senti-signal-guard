@@ -8,3 +8,5 @@ tweepy
 google-api-python-client
 tiktokapipy==0.2.3
 aiolimiter
+fastapi
+uvicorn[standard]
