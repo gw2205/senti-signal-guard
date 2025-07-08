@@ -1,58 +1,69 @@
-# sentibot/utils/source_manager.py
-
-import os
-import json
+#!/usr/bin/env python3
 import asyncio
+import json
 import logging
 from pathlib import Path
 from datetime import datetime
 
-import aiohttp
-from aiohttp import ClientTimeout
-from dotenv import load_dotenv
-from telethon import TelegramClient
-from telethon.errors import UsernameInvalidError, ChannelInvalidError
-import tweepy
-from googleapiclient.discovery import build
-from tiktokapipy.async_api import TikTokApi
+# ——— Config ———
+DATA_DIR = Path(__file__).parent / "data"
+STATUS_FILE = DATA_DIR / "status_log.json"
 
-# Basic configuration
-load_dotenv()
-DATA_DIR = Path(__file__).resolve().parents[1] / "data"
-TIMEOUT = ClientTimeout(total=8)
-logging.basicConfig(level=logging.INFO, format="%(message)s")
-log = logging.getLogger("SourceManager")
-
-# JSON helpers
-def load_json(fname):
-    with open(DATA_DIR / fname, encoding="utf-8") as f:
-        return json.load(f)
-
-def save_json(fname, data):
-    with open(DATA_DIR / fname, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-# API clients
-telegram_client = TelegramClient(
-    os.getenv("TG_SESSION", "sentibot"),
-    int(os.getenv("TG_API_ID")),
-    os.getenv("TG_API_HASH")
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s",
+    datefmt="%Y-%m-%dT%H:%M:%S",
 )
-twitter_client = tweepy.Client(os.getenv("TW_BEARER_TOKEN"), wait_on_rate_limit=True)
-yt_service      = build("youtube", "v3", developerKey=os.getenv("YT_API_KEY"))
-tiktok_client   = TikTokApi(timeout=TIMEOUT)
+logger = logging.getLogger("validate_and_ingest")
 
-async def fetch_tokens():
-    # replace the following with your existing token-gathering logic
-    tokens = []
-    # ... populate tokens list ...
+# ——— Your existing imports & helpers ———
+# import ... (כל מה שיש לך כרגע)
+# לדוגמה:
+# from sentibot.utils.source_manager import fetch_all_data
 
-    # filter and print only tokens with score > 70
-    for tok in tokens:
-        if tok.score > 70:
-            print(f"{tok.symbol}: {tok.score}")
+# ——— Record status to disk ———
+def record_status(results: list[dict]):
+    logger.info(f"📝 Preparing to write {len(results)} results to `{STATUS_FILE}`")
+    # ודא שתיקיית הנתונים קיימת
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-    return tokens
+    # קרא קודם־כל היסטוריה
+    old = []
+    if STATUS_FILE.exists():
+        text = STATUS_FILE.read_text(encoding="utf-8")
+        old = json.loads(text)
+        logger.info(f"🔄 Loaded {len(old)} previous entries")
+
+    # הוסף רשומה חדשה
+    entry = {
+        "timestamp": datetime.utcnow().isoformat(),
+        "results": results,
+    }
+    combined = old + [entry]
+
+    # כתיבה חזרה
+    STATUS_FILE.write_text(json.dumps(combined, indent=2, ensure_ascii=False), encoding="utf-8")
+    logger.info("✅ Successfully wrote status_log.json")
+
+
+# ——— Main flow ———
+async def main():
+    logger.info("🚀 Starting main()")
+    # כאן תקרא לפונקציית האיסוף/וולידציה שלך
+    # למשל: results = await fetch_all_data()
+    # ----- Example placeholder -----
+    # דוגמא מדומה – החלף בלוגיקה שלך!
+    results = [{"dummy": "data"}]
+    logger.info(f"🔍 Collected {len(results)} items")
+    # --------------------------------
+
+    record_status(results)
+    logger.info("🏁 main() completed")
+
 
 if __name__ == "__main__":
-    asyncio.run(fetch_tokens())
+    try:
+        asyncio.run(main())
+    except Exception as e:
+        logger.exception("❌ Unhandled exception in main()")
+        raise
