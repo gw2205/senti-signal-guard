@@ -173,3 +173,14 @@ data/status_log.json
 sentibot_full.py
 telegram_connector.py
 telegram_listener.py
+# ignore data/status_log.json exactly
+/data/status_log.json
+
+# ignore session files anywhere in repo
+*.session
+*.session-journal
+
+# ignore auxiliary scripts in project root
+/sentibot_full.py
+/telegram_connector.py
+/telegram_listener.py
