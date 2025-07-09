@@ -162,3 +162,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# runtime/session files
+data/status_log.json
+
+# .session files
+*.session
+*.session-journal
+
+# auxiliary scripts not tracked
+sentibot_full.py
+telegram_connector.py
+telegram_listener.py
