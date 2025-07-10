@@ -1,0 +1,29 @@
+name: Auto Commit and Deploy
+
+on:
+  workflow_dispatch:
+
+jobs:
+  commit-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate or update code
+        run: |
+          echo "# Generated at $(date)" >> example.txt
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit & Push changes
+        run: |
+          git add .
+          git diff --quiet || git commit -m "Automated update by CI"
+          git push origin HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
