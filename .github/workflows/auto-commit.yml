@@ -1,34 +1,44 @@
 name: Auto Commit and Deploy
 
-# ניתן להפעיל ידנית דרך ה-UI, או מאוחר יותר להוסיף schedule
+# 1. טריגרים להפעלה ידנית, מתוזמנת וחיצונית
 on:
-  workflow_dispatch:
+  workflow_dispatch:         # לחיצה על "Run workflow" ב-GitHub או API :contentReference[oaicite:5]{index=5}
+  schedule:                  # קרון להרצה אוטומטית כל 5 דקות :contentReference[oaicite:6]{index=6}
+    - cron: '*/5 * * * *'
+  repository_dispatch:       # טריגר דרך REST API חיצוני :contentReference[oaicite:7]{index=7}
+    types:
+      - chatgpt-trigger
+
+# 2. הרשאות כתיבה לתוכן
+permissions:
+  contents: write            # מאפשר write (push) באמצעות ה-token 
 
 jobs:
   commit-and-push:
     runs-on: ubuntu-latest
 
     steps:
+      # 3. Checkout עם PAT ושמירת credentials
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          persist-credentials: true
+          token: ${{ secrets.TOKEN }}           # שימוש ב-PAT שהגדרת כ-secret :contentReference[oaicite:9]{index=9}
+          persist-credentials: true             # שמירת ה-token ל-git config עבור push :contentReference[oaicite:10]{index=10}
 
+      # 4. שלב ליצירת או עדכון קבצים
       - name: Generate or update code
         run: |
-          # דוגמה: הוספת שורה לקובץ example.txt
           echo "# Generated at $(date)" >> example.txt
 
+      # 5. הגדרת משתמש Git לביצועי ה-commit
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      # 6. Commit & Push אוטומטי
       - name: Commit & Push changes
         run: |
           git add .
           git diff --quiet || git commit -m "Automated update by CI"
           git push origin HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-
