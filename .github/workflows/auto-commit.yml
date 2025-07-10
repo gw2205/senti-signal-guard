@@ -1,5 +1,6 @@
 name: Auto Commit and Deploy
 
+# ניתן להפעיל ידנית דרך ה-UI, או מאוחר יותר להוסיף schedule
 on:
   workflow_dispatch:
 
@@ -10,9 +11,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Generate or update code
         run: |
+          # דוגמה: הוספת שורה לקובץ example.txt
           echo "# Generated at $(date)" >> example.txt
 
       - name: Configure Git
@@ -27,3 +31,4 @@ jobs:
           git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+
