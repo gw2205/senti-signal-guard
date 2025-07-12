@@ -1,10 +1,10 @@
 import sys
 import os
 
-# הוספת הנתיב הנכון לסקריפט כדי שפייתון יזהה את קובץ data_parser.py
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "sentibot", "utils")))
+# 👇 הוספת תיקיית הפרויקט לשורת החיפוש של פייתון
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 
-from data_parser import load_sources_and_messages
+from sentibot.data_parser import load_sources_and_messages
 
 data = load_sources_and_messages()
 print(f"\n✅ Loaded {len(data)} entries\n")
