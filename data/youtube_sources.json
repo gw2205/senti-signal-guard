@@ -1,6 +1,902 @@
 [
   {
-    "name": "youtube",
-    "url": "https://www.youtube.com"
+    "source_type":"youtube",
+    "channel_name":"Crypto Kirby Trading",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoKirbyTrading",
+    "quality_score":84,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Rover",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoRover",
+    "quality_score":75,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"MMCrypto",
+    "channel_url":"https:\/\/www.youtube.com\/@MMCrypto",
+    "quality_score":92,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"The Moon",
+    "channel_url":"https:\/\/www.youtube.com\/@TheMoonCarl",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Banter",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoBanter",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Altcoin Daily",
+    "channel_url":"https:\/\/www.youtube.com\/@AltcoinDaily",
+    "quality_score":91,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Coin Bureau",
+    "channel_url":"https:\/\/www.youtube.com\/@CoinBureau",
+    "quality_score":95,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Into The Cryptoverse",
+    "channel_url":"https:\/\/www.youtube.com\/@IntoTheCryptoverse",
+    "quality_score":85,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"DataDash",
+    "channel_url":"https:\/\/www.youtube.com\/@DataDash",
+    "quality_score":73,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Zombie",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoZombie",
+    "quality_score":94,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Krown Trading",
+    "channel_url":"https:\/\/www.youtube.com\/@KrownCryptoCave",
+    "quality_score":71,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Tone Vays",
+    "channel_url":"https:\/\/www.youtube.com\/@ToneVays",
+    "quality_score":95,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Face",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoFace",
+    "quality_score":90,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Jacob Crypto Bury",
+    "channel_url":"https:\/\/www.youtube.com\/@JacobCryptoBury",
+    "quality_score":90,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Jebb",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoJebb",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Scott Melker",
+    "channel_url":"https:\/\/www.youtube.com\/@ScottMelker",
+    "quality_score":90,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"InvestAnswers",
+    "channel_url":"https:\/\/www.youtube.com\/@InvestAnswers",
+    "quality_score":81,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Capital Venture",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoCapitalVenture",
+    "quality_score":92,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Casey",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoCasey",
+    "quality_score":85,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"CryptosRUs",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptosRUs",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Lark Davis",
+    "channel_url":"https:\/\/www.youtube.com\/@larkdavis",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Sheldon Evans",
+    "channel_url":"https:\/\/www.youtube.com\/@SheldonEvans",
+    "quality_score":71,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Ellio Trades Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@elliotrades",
+    "quality_score":81,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Hashoshi",
+    "channel_url":"https:\/\/www.youtube.com\/@Hashoshi",
+    "quality_score":85,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Brian Jung",
+    "channel_url":"https:\/\/www.youtube.com\/@BrianJung",
+    "quality_score":81,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Mason",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoMason",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"DIY Investing",
+    "channel_url":"https:\/\/www.youtube.com\/@DIYInvesting",
+    "quality_score":73,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Blockchain Backer",
+    "channel_url":"https:\/\/www.youtube.com\/@BlockchainBacker",
+    "quality_score":86,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Crew University",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoCrewUniversity",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Chico Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@ChicoCrypto",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Satoshi Stacker",
+    "channel_url":"https:\/\/www.youtube.com\/@SatoshiStacker",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"CTO Larsson",
+    "channel_url":"https:\/\/www.youtube.com\/@CTOLarsson",
+    "quality_score":90,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Rekt Capital",
+    "channel_url":"https:\/\/www.youtube.com\/@RektCapital",
+    "quality_score":76,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Tips",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoTips",
+    "quality_score":88,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Frankie Candles",
+    "channel_url":"https:\/\/www.youtube.com\/@FrankieCandles",
+    "quality_score":80,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Gareth Soloway (Verified Investing)",
+    "channel_url":"https:\/\/www.youtube.com\/@VerifiedInvesting",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto ZEUS",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoZeus",
+    "quality_score":78,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Wendy O",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoWendyO",
+    "quality_score":90,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"BitBoy Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@BitBoyCrypto",
+    "quality_score":91,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Love",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoLove",
+    "quality_score":71,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Digital Asset News",
+    "channel_url":"https:\/\/www.youtube.com\/@DigitalAssetNews",
+    "quality_score":74,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"JRNY Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@JRNYCrypto",
+    "quality_score":95,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Coach K Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@CoachKCrypto",
+    "quality_score":87,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"The Chart Guys",
+    "channel_url":"https:\/\/www.youtube.com\/@TheChartGuys",
+    "quality_score":94,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Trader Mayne",
+    "channel_url":"https:\/\/www.youtube.com\/@TraderMayne",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crown Analysis",
+    "channel_url":"https:\/\/www.youtube.com\/@CrownAnalysis",
+    "quality_score":79,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Lifer",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoLifer",
+    "quality_score":72,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Market Moves",
+    "channel_url":"https:\/\/www.youtube.com\/@MarketMoves",
+    "quality_score":90,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Savvy Finance",
+    "channel_url":"https:\/\/www.youtube.com\/@SavvyFinance",
+    "quality_score":71,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Jack",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoJack",
+    "quality_score":79,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Rice TVx",
+    "channel_url":"https:\/\/www.youtube.com\/@RiceTVx",
+    "quality_score":76,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Tyler S Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@TylerSCrypto",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"The Modern Investor",
+    "channel_url":"https:\/\/www.youtube.com\/@TheModernInvestor",
+    "quality_score":92,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Boxmining",
+    "channel_url":"https:\/\/www.youtube.com\/@Boxmining",
+    "quality_score":82,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Virtual Bacon",
+    "channel_url":"https:\/\/www.youtube.com\/@VirtualBacon",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Josh Olszewicz",
+    "channel_url":"https:\/\/www.youtube.com\/@CarpeNoctom",
+    "quality_score":93,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Filbfilb (Decentrader)",
+    "channel_url":"https:\/\/www.youtube.com\/@Decentrader",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Sniper (Sheldon)",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoSniper",
+    "quality_score":75,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Cointelegraph Markets & Research",
+    "channel_url":"https:\/\/www.youtube.com\/@Cointelegraph",
+    "quality_score":76,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"99Bitcoins",
+    "channel_url":"https:\/\/www.youtube.com\/@99Bitcoins",
+    "quality_score":85,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Ivan on Tech",
+    "channel_url":"https:\/\/www.youtube.com\/@IvanOnTech",
+    "quality_score":81,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Andreas Antonopoulos (aantonop)",
+    "channel_url":"https:\/\/www.youtube.com\/@aantonop",
+    "quality_score":74,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Whiteboard Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@WhiteboardCrypto",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Finally Explained",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoFinally",
+    "quality_score":91,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Blockchain Boy",
+    "channel_url":"https:\/\/www.youtube.com\/@BlockchainBoy",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Miles Deutscher",
+    "channel_url":"https:\/\/www.youtube.com\/@MilesDeutscher",
+    "quality_score":84,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"BitLab Academy",
+    "channel_url":"https:\/\/www.youtube.com\/@BitLabAcademy",
+    "quality_score":89,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Savvy Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@SavvyCrypto",
+    "quality_score":85,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Ellis",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoEllis",
+    "quality_score":76,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Busy",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoBusy",
+    "quality_score":85,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"BitMEX Research",
+    "channel_url":"https:\/\/www.youtube.com\/@BitMEXResearch",
+    "quality_score":92,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto King",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoKing",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Twins",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoTwins",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Gains",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoGains",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"The Right Trader",
+    "channel_url":"https:\/\/www.youtube.com\/@TheRightTrader",
+    "quality_score":90,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Altcoin Buzz",
+    "channel_url":"https:\/\/www.youtube.com\/@AltcoinBuzz",
+    "quality_score":81,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Cryptocurrency Australia",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptocurrencyAustralia",
+    "quality_score":75,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Vet",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoVet",
+    "quality_score":84,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Kevin Svenson Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@KevinSvensonCrypto",
+    "quality_score":74,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Ben Armstrong",
+    "channel_url":"https:\/\/www.youtube.com\/@BenArmstrongCrypto",
+    "quality_score":76,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Jason Pizzino",
+    "channel_url":"https:\/\/www.youtube.com\/@JasonPizzino",
+    "quality_score":93,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Chris Dunn",
+    "channel_url":"https:\/\/www.youtube.com\/@ChrisDunnTV",
+    "quality_score":71,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Daily",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoDaily",
+    "quality_score":89,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"New Money Gang",
+    "channel_url":"https:\/\/www.youtube.com\/@NewMoneyGang",
+    "quality_score":94,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Michael Wrubel",
+    "channel_url":"https:\/\/www.youtube.com\/@MichaelWrubel",
+    "quality_score":89,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Gerhard \u2013 Bitcoin Strategy",
+    "channel_url":"https:\/\/www.youtube.com\/@BitcoinStrategy",
+    "quality_score":72,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Omar Bham (Crypt0)",
+    "channel_url":"https:\/\/www.youtube.com\/@Crypt0",
+    "quality_score":78,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"CoinSkid",
+    "channel_url":"https:\/\/www.youtube.com\/@CoinSkid",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Philakone Crypto",
+    "channel_url":"https:\/\/www.youtube.com\/@PhilakoneCrypto",
+    "quality_score":91,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Kaleo",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoKaleo",
+    "quality_score":81,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"WatcherGuru",
+    "channel_url":"https:\/\/www.youtube.com\/@WatcherGuru",
+    "quality_score":91,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Moon Lambo",
+    "channel_url":"https:\/\/www.youtube.com\/@MoonLambo",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"PlanB (Stock-to-Flow)",
+    "channel_url":"https:\/\/www.youtube.com\/@100trillionUSD",
+    "quality_score":87,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Blockworks Research",
+    "channel_url":"https:\/\/www.youtube.com\/@BlockworksResearch",
+    "quality_score":72,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Bankless",
+    "channel_url":"https:\/\/www.youtube.com\/@Bankless",
+    "quality_score":78,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"The Defiant",
+    "channel_url":"https:\/\/www.youtube.com\/@TheDefiant",
+    "quality_score":73,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Glassnode",
+    "channel_url":"https:\/\/www.youtube.com\/@Glassnode",
+    "quality_score":71,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Banter Sniper School",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoBanterSniperSchool",
+    "quality_score":94,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"CryptoBirb (The Birb Nest)",
+    "channel_url":"https:\/\/www.youtube.com\/@TheBirbNest",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"youtube",
+    "channel_name":"Crypto Savvy",
+    "channel_url":"https:\/\/www.youtube.com\/@CryptoSavvy",
+    "quality_score":70,
+    "messages":[
+
+    ]
   }
 ]
