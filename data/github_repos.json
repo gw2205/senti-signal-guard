@@ -1,0 +1,212 @@
+[
+  {
+    "source_type": "github_repo",
+    "repo_name": "ethereum",
+    "repo_url": "https://github.com/ethereum/go-ethereum",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "bitcoin",
+    "repo_url": "https://github.com/bitcoin/bitcoin",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "solana",
+    "repo_url": "https://github.com/solana-labs/solana",
+    "quality_score": 80,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "polkadot",
+    "repo_url": "https://github.com/paritytech/polkadot",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "cardano-node",
+    "repo_url": "https://github.com/input-output-hk/cardano-node",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "binance-chain",
+    "repo_url": "https://github.com/binance-chain/bsc",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "cosmos-sdk",
+    "repo_url": "https://github.com/cosmos/cosmos-sdk",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "avalanchego",
+    "repo_url": "https://github.com/ava-labs/avalanchego",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "arbitrum",
+    "repo_url": "https://github.com/OffchainLabs/arbitrum",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "optimism",
+    "repo_url": "https://github.com/ethereum-optimism/optimism",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "uniswap-v3-core",
+    "repo_url": "https://github.com/Uniswap/v3-core",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "chainlink",
+    "repo_url": "https://github.com/smartcontractkit/chainlink",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "curve-contract",
+    "repo_url": "https://github.com/curvefi/curve-contract",
+    "quality_score": 80,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "aave-protocol",
+    "repo_url": "https://github.com/aave/protocol-v2",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "compound-protocol",
+    "repo_url": "https://github.com/compound-finance/compound-protocol",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "yearn-vaults",
+    "repo_url": "https://github.com/yearn/yearn-vaults",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "sushiswap",
+    "repo_url": "https://github.com/sushiswap/sushiswap",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "balancer-v2-core",
+    "repo_url": "https://github.com/balancer-labs/balancer-v2-core",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "gnosis-safe",
+    "repo_url": "https://github.com/safe-global/safe-react",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "tornado-core",
+    "repo_url": "https://github.com/tornadocash/tornado-core",
+    "quality_score": 87,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "dydx-v3-perpetual",
+    "repo_url": "https://github.com/dydxprotocol/perpetual",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "defi-llama",
+    "repo_url": "https://github.com/DefiLlama/defillama-app",
+    "quality_score": 80,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "lens-protocol",
+    "repo_url": "https://github.com/lens-protocol/lens-protocol",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "ens-contracts",
+    "repo_url": "https://github.com/ensdomains/ens-contracts",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "lido-dao",
+    "repo_url": "https://github.com/lidofinance/lido-dao",
+    "quality_score": 87,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "superfluid-protocol",
+    "repo_url": "https://github.com/superfluid-finance/protocol-monorepo",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "hop-protocol",
+    "repo_url": "https://github.com/hop-protocol/hop",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "zkSync Era",
+    "repo_url": "https://github.com/matter-labs/zksync-era",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "starknet",
+    "repo_url": "https://github.com/starkware-libs/starknet",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "github_repo",
+    "repo_name": "aztec-protocol",
+    "repo_url": "https://github.com/AztecProtocol/aztec-packages",
+    "quality_score": 80,
+    "messages": []
+  }
+]
