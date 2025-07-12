@@ -1,0 +1,702 @@
+[
+  {
+    "source_type": "content_site",
+    "site_name": "Cointelegraph",
+    "site_url": "https://cointelegraph.com",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coindesk",
+    "site_url": "https://coindesk.com",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Decrypt",
+    "site_url": "https://decrypt.co",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Beincrypto",
+    "site_url": "https://beincrypto.com",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "U",
+    "site_url": "https://u.today",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptopotato",
+    "site_url": "https://cryptopotato.com",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Bitcoinist",
+    "site_url": "https://bitcoinist.com",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Blockworks",
+    "site_url": "https://blockworks.co",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Theblock",
+    "site_url": "https://theblock.co",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptoslate",
+    "site_url": "https://cryptoslate.com",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Dailyhodl",
+    "site_url": "https://dailyhodl.com",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coinpedia",
+    "site_url": "https://coinpedia.org",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Newsbtc",
+    "site_url": "https://newsbtc.com",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Ambcrypto",
+    "site_url": "https://ambcrypto.com",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Bitdegree",
+    "site_url": "https://bitdegree.org",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Fxstreet",
+    "site_url": "https://fxstreet.com/cryptocurrencies",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Invezz",
+    "site_url": "https://invezz.com",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Nulltx",
+    "site_url": "https://nulltx.com",
+    "quality_score": 87,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptobriefing",
+    "site_url": "https://cryptobriefing.com",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptonews",
+    "site_url": "https://cryptonews.com",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptonewsz",
+    "site_url": "https://cryptonewsz.com",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coinspeaker",
+    "site_url": "https://coinspeaker.com",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Tokenhell",
+    "site_url": "https://tokenhell.com",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coinjournal",
+    "site_url": "https://coinjournal.net",
+    "quality_score": 80,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Zycrypto",
+    "site_url": "https://zycrypto.com",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptoticker",
+    "site_url": "https://cryptoticker.io",
+    "quality_score": 80,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptogazette",
+    "site_url": "https://cryptogazette.com",
+    "quality_score": 87,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Bitcoinmagazine",
+    "site_url": "https://bitcoinmagazine.com",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Crypto",
+    "site_url": "https://crypto.news",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coingape",
+    "site_url": "https://coingape.com",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Blockonomi",
+    "site_url": "https://blockonomi.com",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Blockchain",
+    "site_url": "https://blockchain.news",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Tokenpost",
+    "site_url": "https://tokenpost.com",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Blokt",
+    "site_url": "https://blokt.com",
+    "quality_score": 87,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Btcmanager",
+    "site_url": "https://btcmanager.com",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Livebitcoinnews",
+    "site_url": "https://livebitcoinnews.com",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Ethereumworldnews",
+    "site_url": "https://ethereumworldnews.com",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptomode",
+    "site_url": "https://cryptomode.com",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Chainbulletin",
+    "site_url": "https://chainbulletin.com",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptomaniaks",
+    "site_url": "https://cryptomaniaks.com",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptovantage",
+    "site_url": "https://cryptovantage.com",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptowisser",
+    "site_url": "https://cryptowisser.com",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptoadventure",
+    "site_url": "https://cryptoadventure.org",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Defipulse",
+    "site_url": "https://defipulse.com",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Defiprime",
+    "site_url": "https://defiprime.com",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Dappradar",
+    "site_url": "https://dappradar.com",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Stateofthedapps",
+    "site_url": "https://stateofthedapps.com",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Messari",
+    "site_url": "https://messari.io",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Dune",
+    "site_url": "https://dune.com",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Tokenmetrics",
+    "site_url": "https://tokenmetrics.com",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Intotheblock",
+    "site_url": "https://intotheblock.com",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Glassnode",
+    "site_url": "https://glassnode.com",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Santiment",
+    "site_url": "https://santiment.net",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Skew",
+    "site_url": "https://skew.com",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Nansen",
+    "site_url": "https://nansen.ai",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coincheckup",
+    "site_url": "https://coincheckup.com",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Lunarcrush",
+    "site_url": "https://lunarcrush.com",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Nomics",
+    "site_url": "https://nomics.com",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coingecko",
+    "site_url": "https://coingecko.com",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coinmarketcap",
+    "site_url": "https://coinmarketcap.com",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Livecoinwatch",
+    "site_url": "https://livecoinwatch.com",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Tokenterminal",
+    "site_url": "https://tokenterminal.com",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptorank",
+    "site_url": "https://cryptorank.io",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coincodex",
+    "site_url": "https://coincodex.com",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Defillama",
+    "site_url": "https://defillama.com",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Defistation",
+    "site_url": "https://defistation.io",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Rekt",
+    "site_url": "https://rekt.news",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Rugdoc",
+    "site_url": "https://rugdoc.io",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptopanic",
+    "site_url": "https://cryptopanic.com",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptocurrencyalerting",
+    "site_url": "https://cryptocurrencyalerting.com",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Tokensniffer",
+    "site_url": "https://tokensniffer.com",
+    "quality_score": 80,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Whale-alert",
+    "site_url": "https://whale-alert.io",
+    "quality_score": 87,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptoscore",
+    "site_url": "https://cryptoscore.io",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Apewisdom",
+    "site_url": "https://apewisdom.io",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cointracking",
+    "site_url": "https://cointracking.info",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Tradingview",
+    "site_url": "https://tradingview.com",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptowat",
+    "site_url": "https://cryptowat.ch",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coin",
+    "site_url": "https://coin.fyi",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptocompare",
+    "site_url": "https://cryptocompare.com",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Bitinfocharts",
+    "site_url": "https://bitinfocharts.com",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Tokeninsight",
+    "site_url": "https://tokeninsight.com",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coinstats",
+    "site_url": "https://coinstats.app",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptofees",
+    "site_url": "https://cryptofees.info",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Evmtracker",
+    "site_url": "https://evmtracker.dev",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptobubbles",
+    "site_url": "https://cryptobubbles.net",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptoglobe",
+    "site_url": "https://cryptoglobe.com",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptoast",
+    "site_url": "https://cryptoast.fr",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Btctimes",
+    "site_url": "https://btctimes.com",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Bravenewcoin",
+    "site_url": "https://bravenewcoin.com",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coinpaper",
+    "site_url": "https://coinpaper.com",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Web3nomads",
+    "site_url": "https://web3nomads.com",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Thedailycrypto",
+    "site_url": "https://thedailycrypto.io",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptoweekly",
+    "site_url": "https://cryptoweekly.co",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coincu",
+    "site_url": "https://coincu.com",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Cryptopolitan",
+    "site_url": "https://cryptopolitan.com",
+    "quality_score": 87,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Coinbold",
+    "site_url": "https://coinbold.io",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Www",
+    "site_url": "https://www.investopedia.com",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Www",
+    "site_url": "https://www.investing.com",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Www",
+    "site_url": "https://www.cnbc.com",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "content_site",
+    "site_name": "Www",
+    "site_url": "https://www.bloomberg.com",
+    "quality_score": 93,
+    "messages": []
+  }
+]
