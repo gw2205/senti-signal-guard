@@ -1,6 +1,254 @@
 [
   {
-    "name": "telegram",
-    "url": "https://telegram.org"
+    "source_type":"telegram",
+    "group_name":"Crypto Signals - Binance Pump",
+    "group_url":"https:\/\/t.me\/binancepumps",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Crypto Classics",
+    "group_url":"https:\/\/t.me\/cryptoclassics",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"WhaleTank Calls",
+    "group_url":"https:\/\/t.me\/whaletankcalls",
+    "quality_score":94,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"AltSignals Premium",
+    "group_url":"https:\/\/t.me\/altsignals",
+    "quality_score":95,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Crypto VIP Signal\u2122",
+    "group_url":"https:\/\/t.me\/cryptovipsignal",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"WolfxSignals",
+    "group_url":"https:\/\/t.me\/WolfxSignals",
+    "quality_score":86,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Alpha Trade Zone",
+    "group_url":"https:\/\/t.me\/AlphaTradeZone",
+    "quality_score":82,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Rocket Wallet Signals",
+    "group_url":"https:\/\/t.me\/rocketwalletsignals",
+    "quality_score":73,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Saviour Calls",
+    "group_url":"https:\/\/t.me\/SaviourCalls",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"The Real Signal",
+    "group_url":"https:\/\/t.me\/TheRealSignal",
+    "quality_score":83,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Gem Hunters",
+    "group_url":"https:\/\/t.me\/gemhuntersgroup",
+    "quality_score":90,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"ICO Analytics",
+    "group_url":"https:\/\/t.me\/ico_analytics",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Crypto Rand",
+    "group_url":"https:\/\/t.me\/CryptoRandGroup",
+    "quality_score":88,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Coin Bureau Insider",
+    "group_url":"https:\/\/t.me\/coinbureauinsider",
+    "quality_score":89,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Crypto Coins Coach",
+    "group_url":"https:\/\/t.me\/cryptocoinscoach",
+    "quality_score":92,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Crypto Ninja",
+    "group_url":"https:\/\/t.me\/cryptoninjachannel",
+    "quality_score":93,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Decentrader",
+    "group_url":"https:\/\/t.me\/decentrader",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Income Sharks",
+    "group_url":"https:\/\/t.me\/incomesharks",
+    "quality_score":76,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Crypto Busy",
+    "group_url":"https:\/\/t.me\/cryptobusy",
+    "quality_score":71,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Crypto Gems & News",
+    "group_url":"https:\/\/t.me\/cryptogemalerts",
+    "quality_score":94,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Gains Network",
+    "group_url":"https:\/\/t.me\/gainsnetwork",
+    "quality_score":77,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Morpheus Crypto",
+    "group_url":"https:\/\/t.me\/morpheuscrypto",
+    "quality_score":72,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Crypto World Alerts",
+    "group_url":"https:\/\/t.me\/cryptoworld1737",
+    "quality_score":80,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Ardizor Alpha",
+    "group_url":"https:\/\/t.me\/ardizor_alpha",
+    "quality_score":70,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Next 10x Gem",
+    "group_url":"https:\/\/t.me\/next10xgem1",
+    "quality_score":75,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Danny Crypton",
+    "group_url":"https:\/\/t.me\/danny_crypton",
+    "quality_score":82,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"CryptoNobler",
+    "group_url":"https:\/\/t.me\/CryptoNobler",
+    "quality_score":86,
+    "messages":[
+
+    ]
+  },
+  {
+    "source_type":"telegram",
+    "group_name":"Tracer Alpha",
+    "group_url":"https:\/\/t.me\/TracerAlpha",
+    "quality_score":75,
+    "messages":[
+
+    ]
   }
 ]
