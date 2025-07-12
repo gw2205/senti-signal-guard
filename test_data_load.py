@@ -1,9 +1,10 @@
 import sys
 import os
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "sentibot")))
+# הוספת הנתיב לסקריפט הנוכחי אל תוך path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "sentibot", "utils")))
 
-from utils.data_parser import load_sources_and_messages
+from data_parser import load_sources_and_messages
 
 data = load_sources_and_messages()
 print(f"\n✅ Loaded {len(data)} entries\n")
