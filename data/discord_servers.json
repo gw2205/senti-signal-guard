@@ -1,1 +1,359 @@
-
+[
+  {
+    "source_type": "discord",
+    "server_name": "Axion Crypto\u2011Community",
+    "server_invite": "https://discord.gg/axioncrypt",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Elite Crypto Signals",
+    "server_invite": "https://discord.gg/elitecrypt",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Cryptohub",
+    "server_invite": "https://discord.gg/cryptohub",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Cracking Crypto",
+    "server_invite": "https://discord.gg/crackingcr",
+    "quality_score": 80,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Jacob\u2019s Crypto Clan",
+    "server_invite": "https://discord.gg/jacob\u2019scry",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Spacestation",
+    "server_invite": "https://discord.gg/spacestati",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "r/CryptoCurrency Discord",
+    "server_invite": "https://discord.gg/r/cryptocu",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "WallstreetBets Discord",
+    "server_invite": "https://discord.gg/wallstreet",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Cryptex Commonwealth",
+    "server_invite": "https://discord.gg/cryptexcom",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Filthy Rich Futures",
+    "server_invite": "https://discord.gg/filthyrich",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Altcoin Alerts",
+    "server_invite": "https://discord.gg/altcoinale",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Whale Watchers",
+    "server_invite": "https://discord.gg/whalewatch",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Pump and Signals Hub",
+    "server_invite": "https://discord.gg/pumpandsig",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "DeFi Lounge",
+    "server_invite": "https://discord.gg/defilounge",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "CryptoGems Signals",
+    "server_invite": "https://discord.gg/cryptogems",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "The Altcoin Lab",
+    "server_invite": "https://discord.gg/thealtcoin",
+    "quality_score": 87,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Fibonacci Signals",
+    "server_invite": "https://discord.gg/fibonaccis",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "DailyCryptoTA",
+    "server_invite": "https://discord.gg/dailycrypt",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "MoonHunters",
+    "server_invite": "https://discord.gg/moonhunter",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Binance Futures Snipers",
+    "server_invite": "https://discord.gg/binancefut",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Satoshi Calls",
+    "server_invite": "https://discord.gg/satoshical",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Smart Money Moves",
+    "server_invite": "https://discord.gg/smartmoney",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Altpocalypse",
+    "server_invite": "https://discord.gg/altpocalyp",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "LayerZero Lounge",
+    "server_invite": "https://discord.gg/layerzerol",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Volume Surge Snipers",
+    "server_invite": "https://discord.gg/volumesurg",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "AlphaSniper Community",
+    "server_invite": "https://discord.gg/alphasnipe",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Rugpull Alerts",
+    "server_invite": "https://discord.gg/rugpullale",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Crypto Daily Pump",
+    "server_invite": "https://discord.gg/cryptodail",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "NFT & Tokens Calls",
+    "server_invite": "https://discord.gg/nft&tokens",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "SuperTrend Snipers",
+    "server_invite": "https://discord.gg/supertrend",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Crypto Trading Den",
+    "server_invite": "https://discord.gg/cryptotrad",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Safe Entry Alerts",
+    "server_invite": "https://discord.gg/safeentrya",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Low Cap Raiders",
+    "server_invite": "https://discord.gg/lowcapraid",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "MoonScouts",
+    "server_invite": "https://discord.gg/moonscouts",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Token Raiders",
+    "server_invite": "https://discord.gg/tokenraide",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "BuyZone Alerts",
+    "server_invite": "https://discord.gg/buyzoneale",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Next100x Club",
+    "server_invite": "https://discord.gg/next100xcl",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Volatility Alpha",
+    "server_invite": "https://discord.gg/volatility",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Parabolic Entry Group",
+    "server_invite": "https://discord.gg/parabolice",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Breakout Calls",
+    "server_invite": "https://discord.gg/breakoutca",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "TA Wizards",
+    "server_invite": "https://discord.gg/tawizards",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Kujira Snipers",
+    "server_invite": "https://discord.gg/kujirasnip",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "ApeTogether DAO",
+    "server_invite": "https://discord.gg/apetogethe",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "PulseChain Signals",
+    "server_invite": "https://discord.gg/pulsechain",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Cosmos Lounge",
+    "server_invite": "https://discord.gg/cosmosloun",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Phantom Futures",
+    "server_invite": "https://discord.gg/phantomfut",
+    "quality_score": 81,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "QuickSignal AI",
+    "server_invite": "https://discord.gg/quicksigna",
+    "quality_score": 80,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Scalpers Circle",
+    "server_invite": "https://discord.gg/scalpersci",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "The Leverage Lords",
+    "server_invite": "https://discord.gg/theleverag",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Golden Entry Traders",
+    "server_invite": "https://discord.gg/goldenentr",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "discord",
+    "server_name": "Flipping Alpha",
+    "server_invite": "https://discord.gg/flippingal",
+    "quality_score": 84,
+    "messages": []
+  }
+]
