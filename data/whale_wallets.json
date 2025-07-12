@@ -1,0 +1,170 @@
+[
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Binance Cold Wallet 1",
+    "wallet_address": "1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ",
+    "blockchain": "Bitcoin",
+    "quality_score": 96,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Binance Cold Wallet 2",
+    "wallet_address": "1HQ3Go3ggs8pFnXuHVHRytPCq5fGG8Hbhx",
+    "blockchain": "Bitcoin",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Bitfinex Cold Wallet",
+    "wallet_address": "1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s",
+    "blockchain": "Bitcoin",
+    "quality_score": 97,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Bittrex BTC Wallet",
+    "wallet_address": "1HQ3Go3ggs8pFnXuHVHRytPCq5fGG8Hbhx",
+    "blockchain": "Bitcoin",
+    "quality_score": 85,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Gemini BTC Wallet",
+    "wallet_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+    "blockchain": "Bitcoin",
+    "quality_score": 96,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Huobi BTC Wallet",
+    "wallet_address": "1FeexV6bAHb8ybZjqQMjJrcCrHGW9sb6uF",
+    "blockchain": "Bitcoin",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Coinbase BTC Cold",
+    "wallet_address": "3Cbq7aT1tY8kMxWLbitaG7yT6bPbKChq64",
+    "blockchain": "Bitcoin",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Kraken BTC Vault",
+    "wallet_address": "1Cdid9KFAaatwczBwBttQcwXYCpvK8h7FK",
+    "blockchain": "Bitcoin",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Binance ETH Cold Wallet",
+    "wallet_address": "0x3f5CE5FBFe3E9af3971dD833D26BA9b5C936f0bE",
+    "blockchain": "Ethereum",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Binance ETH Hot Wallet",
+    "wallet_address": "0x564286362092D8e7936f0549571a803B203aAceD",
+    "blockchain": "Ethereum",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Kraken ETH Wallet",
+    "wallet_address": "0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0",
+    "blockchain": "Ethereum",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Bitfinex ETH Reserve",
+    "wallet_address": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+    "blockchain": "Ethereum",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Gemini ETH Wallet",
+    "wallet_address": "0xF977814e90dA44bFA03b6295A0616a897441aceC",
+    "blockchain": "Ethereum",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Coinbase ETH Cold Wallet",
+    "wallet_address": "0xd551234ae421e3bcba99a0da6d736074f22192ff",
+    "blockchain": "Ethereum",
+    "quality_score": 97,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "OKX ETH Wallet",
+    "wallet_address": "0x5c985e89dde482efe97ea9f1950ad149eb73829b",
+    "blockchain": "Ethereum",
+    "quality_score": 97,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Huobi ETH Wallet",
+    "wallet_address": "0xdc76cd25977e0a5ae17155770273ad58648900d3",
+    "blockchain": "Ethereum",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Tether Treasury",
+    "wallet_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "blockchain": "Ethereum",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "USDC Treasury",
+    "wallet_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "blockchain": "Ethereum",
+    "quality_score": 97,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Shiba Inu Whale",
+    "wallet_address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "blockchain": "Ethereum",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Polygon Foundation",
+    "wallet_address": "0x401f6c983eA34274ec46f84D70b31C151321188b",
+    "blockchain": "Ethereum",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "whale_wallet",
+    "wallet_label": "Vitalik ETH Wallet",
+    "wallet_address": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
+    "blockchain": "Ethereum",
+    "quality_score": 86,
+    "messages": []
+  }
+]
