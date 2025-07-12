@@ -1,10 +1,4 @@
-import sys
-import os
-
-# הוספת הנתיב של sentibot/utils למסלול החיפוש של פייתון
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "sentibot", "utils")))
-
-from data_parser import load_sources_and_messages
+from sentibot.data_parser import load_sources_and_messages
 
 data = load_sources_and_messages()
 print(f"\n✅ Loaded {len(data)} entries\n")
