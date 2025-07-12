@@ -1,0 +1,177 @@
+[
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "DEX Volume Overview",
+    "dashboard_url": "https://dune.com/hagaetc/dex-metrics",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "ETH Gas Tracker",
+    "dashboard_url": "https://dune.com/queries/38996",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Stablecoin Supply Tracker",
+    "dashboard_url": "https://dune.com/mrblock/stablecoin-supply",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Open Interest - Perpetuals",
+    "dashboard_url": "https://dune.com/ilmed/crypto-perp-oi",
+    "quality_score": 93,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Arbitrum Ecosystem TVL",
+    "dashboard_url": "https://dune.com/basedkarbon/arbitrum-tvl",
+    "quality_score": 97,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Ethereum NFT Activity",
+    "dashboard_url": "https://dune.com/sim0n/nft-market-tracker",
+    "quality_score": 97,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "L2 Adoption Monitor",
+    "dashboard_url": "https://dune.com/cryptokoryo/l2-adoption",
+    "quality_score": 90,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Uniswap V3 Pool Analytics",
+    "dashboard_url": "https://dune.com/kenbot/uniswap-v3-pool-overview",
+    "quality_score": 82,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Binance Smart Chain Metrics",
+    "dashboard_url": "https://dune.com/gentrexha/bsc-overview",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Wallet Age Distribution",
+    "dashboard_url": "https://dune.com/smartcontracts/wallet-analytics",
+    "quality_score": 95,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "MakerDAO Collateral Dashboard",
+    "dashboard_url": "https://dune.com/banteg/makerdao-dashboard",
+    "quality_score": 91,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Liquid Staking Derivatives",
+    "dashboard_url": "https://dune.com/stakeflow/liquid-staking",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Polygon Ecosystem Explorer",
+    "dashboard_url": "https://dune.com/itsdevbear/polygon-metrics",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "DAI Savings Rate Tracker",
+    "dashboard_url": "https://dune.com/dsr-tracker",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "NFT Wash Trading Detector",
+    "dashboard_url": "https://dune.com/0xRob/nft-wash-trading",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Curve Finance Analytics",
+    "dashboard_url": "https://dune.com/crypto-curious/curve-dashboard",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Crypto Fear & Greed Index",
+    "dashboard_url": "https://dune.com/fearandgreed",
+    "quality_score": 88,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Token Launchpad Activity",
+    "dashboard_url": "https://dune.com/chainlaunch/launchpad-insights",
+    "quality_score": 94,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Tornado Cash Usage Trends",
+    "dashboard_url": "https://dune.com/anonymity/tornado-cash",
+    "quality_score": 97,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Synthetix Staking Overview",
+    "dashboard_url": "https://dune.com/kwon/snx-dashboard",
+    "quality_score": 84,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Gas Usage by Contract",
+    "dashboard_url": "https://dune.com/0xfoobar/gas-by-contract",
+    "quality_score": 92,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Token Distribution Over Time",
+    "dashboard_url": "https://dune.com/distribution/tokens-over-time",
+    "quality_score": 86,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Top DEX Traders Analysis",
+    "dashboard_url": "https://dune.com/profiler/top-dex-traders",
+    "quality_score": 83,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "Real Yield Tokens",
+    "dashboard_url": "https://dune.com/defiyield/real-yield",
+    "quality_score": 89,
+    "messages": []
+  },
+  {
+    "source_type": "dune_dashboard",
+    "dashboard_name": "NFT Floor Price Aggregator",
+    "dashboard_url": "https://dune.com/floorboard/nft-floor-analytics",
+    "quality_score": 94,
+    "messages": []
+  }
+]
