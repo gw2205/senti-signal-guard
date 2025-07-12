@@ -1,8 +1,8 @@
 import sys
 import os
 
-# מוסיף את הנתיב של sentibot לתוך sys.path כדי שפייתון יזהה את החבילה
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "sentibot")))
+# הוספת הנתיב הנכון לסקריפט כדי שפייתון יזהה את קובץ data_parser.py
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "sentibot", "utils")))
 
 from data_parser import load_sources_and_messages
 
